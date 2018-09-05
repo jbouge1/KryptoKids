@@ -1,0 +1,657 @@
+TITLE_ID	tt0113118
+IMDB_URL	https://www.imdb.com/title/tt0113118/
+TITLE	Friday
+YEAR	1995
+RATING	7.3
+GENRES	Comedy
+Drama
+DIRECTORS	F. Gary Gray
+WRITERS	Ice Cube
+DJ Pooh
+CAST	Ice Cube 
+Chris Tucker 
+Nia Long 
+Tommy 'Tiny' Lister 
+John Witherspoon 
+Anna Maria Horsford 
+Regina King 
+Paula Jai Parker 
+Faizon Love 
+DJ Pooh 
+Angela Means 
+Vickilyn Reynolds 
+Ronn Riser 
+Kathleen Bradley 
+Tony Cox 
+Anthony Johnson 
+Demetrius Navarro 
+Jason Bose Smith 
+Bernie Mac 
+Justin Revoner 
+Meagan Good 
+LaWanda Page 
+Terri J. Vaughn 
+F. Gary Gray 
+Yvette Wilson 
+WC 
+Reynaldo Rey 
+Michael Clarke Duncan
+STARS	Ice Cube
+Chris Tucker
+Nia Long
+PRODUCERS	W.E. Baker
+Patricia Charbonnet
+Helena Echegoyen
+Ice Cube
+DJ Pooh
+Andre Robinson Jr.
+James Tripp-Haith
+Bryan Turner
+MUSICIANS	Frank Fitzpatrick
+Simon Franglen
+Chuck Wild
+CINEMATOGRAPHERS	Gerry Lively
+EDITORS	John Carter
+RELEASE_DATE	26 Apr 1995 (USA)
+TAGLINE	a lot can go down between thursday and saturday...
+PLOT	It is Friday and Craig Jones (Ice Cube) is unemployed, having, yesterday, been fired. He is lounging around his house with his friend Smokey (Chris Tucker), a rather incompetent weed dealer. Smokey's problem is that he tends to smoke, rather than sell, his product. This has lead to trouble with Smokey's supplier, Big Worm, who now wants his money, or his product back, or Smokey is a dead man. Then there's Deebo, the local bully, plus Craig's jealous, psychotic girlfriend, Joi, and Debbie, the neighbour Craig has a crush on. A lot can happen while lounging around your house on a Friday.
+PLOT_KEYWORDS	adult-lives-at-home
+neighborhood
+neighbor
+bully
+drug-dealer
+POSTER	https://ia.media-imdb.com/images/M/MV5BYmEwNjNlZTUtNzkwMS00ZTlhLTkyY2MtMjM2MzlmODQyZGVhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1._SY200.jpg
+POSTER_LARGE	https://ia.media-imdb.com/images/M/MV5BYmEwNjNlZTUtNzkwMS00ZTlhLTkyY2MtMjM2MzlmODQyZGVhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1._SY500.jpg
+POSTER_FULL	https://ia.media-imdb.com/images/M/MV5BYmEwNjNlZTUtNzkwMS00ZTlhLTkyY2MtMjM2MzlmODQyZGVhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1._SY0.jpg
+RUNTIME	91 min
+TOP_250	
+OSCARS	
+AWARDS	
+NOMINATIONS	5
+LANGUAGE	English
+COUNTRY	United States
+ALSO_KNOWN_AS	????? = Bulgaria (Bulgarian title)
+Sexta-feira em Apuros = Brazil
+Todo en un viernes = Spain (video title)
+Friday = France (video title)
+Petak = Croatia
+Végre péntek = Hungary
+Ci vediamo venerdì = Italy
+Penktadienis = Lithuania
+El viernes = Mexico
+Piatek = Poland
+Vineri = Romania
+Petak = Serbia
+??????? = Russia
+Petek = Slovenia
+Cuma = Turkey (Turkish title)
+RELEASE_DATES	USA = 26 April 1995
+UK = 30 June 1995
+Brazil = 14 July 1995
+Australia = 5 October 1995
+Sweden = January 1996
+Japan = 1 March 1996
+France = 7 March 2001
+Germany = 15 November 2001
+USA = 13 June 2014
+
+TITLE_ID	tt0499549
+IMDB_URL	https://www.imdb.com/title/tt0499549/
+TITLE	Avatar
+YEAR	2009
+RATING	7.8
+GENRES	
+DIRECTORS	James Cameron
+WRITERS	James Cameron
+CAST	Sam Worthington 
+Zoe Saldana 
+Sigourney Weaver 
+Stephen Lang 
+Michelle Rodriguez 
+Giovanni Ribisi 
+Joel David Moore 
+CCH Pounder 
+Wes Studi 
+Laz Alonso 
+Dileep Rao 
+Matt Gerald 
+Sean Anthony Moran 
+Jason Whyte 
+Scott Lawrence 
+Kelly Kilgour 
+James Patrick Pitt 
+Sean Patrick Murphy 
+Peter Dillon 
+Kevin Dorman 
+Kelson Henderson 
+David Van Horn 
+Jacob Tomuri 
+Michael Blain-Rozgay 
+Jon Curry 
+Julene Renee 
+Luke Hawker 
+Woody Schultz 
+Peter Mensah 
+Sonia Yee
+STARS	Sam Worthington
+Zoe Saldana
+Sigourney Weaver
+PRODUCERS	Brooke Breton
+James Cameron
+Laeta Kalogridis
+Jon Landau
+Josh McLaglen
+Janace Tashjian
+Peter M. Tobyansen
+Colin Wilson
+MUSICIANS	James Horner
+CINEMATOGRAPHERS	Mauro Fiore
+EDITORS	James Cameron
+John Refoua
+Stephen E. Rivkin
+RELEASE_DATE	18 Dec 2009 (USA)
+TAGLINE	
+PLOT	
+PLOT_KEYWORDS	
+POSTER	https://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1._SY200.jpg
+POSTER_LARGE	https://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1._SY500.jpg
+POSTER_FULL	https://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1._SY0.jpg
+RUNTIME	
+TOP_250	
+OSCARS	3
+AWARDS	85
+NOMINATIONS	128
+LANGUAGE	
+COUNTRY	
+ALSO_KNOWN_AS	Avatar = Argentina
+?????? = Bulgaria (Bulgarian title)
+Avatar = Brazil
+Afanda = China (Mandarin title)
+Avatar = Czech Republic
+Avatar - Aufbruch nach Pandora = Germany
+Avatar = Estonia
+Avatar = Spain
+Avatar = Finland
+Avatar = Finland (Swedish title)
+Avatar = France
+Avatar = Greece
+Afaandaat = Hong Kong (Cantonese title)
+Afanda = Hong Kong (Mandarin title)
+Avatar = Croatia
+Avatar = Hungary
+Avatar = Iran (Persian title)
+Abatâ = Japan
+Avatar = Japan (English title)
+Isikunijimas = Lithuania
+Avatars = Latvia
+Avatar = Mexico
+Avatar = Norway
+Avatar = Panama
+Avatar = Peru
+Avatar = Poland
+Avatar: Wersja specjalna = Poland (longer version)
+Avatar = Portugal
+Avatar = Romania
+Avatar = Serbia
+?????? = Russia
+Avatar = Slovakia
+Avatar = Turkey (Turkish title)
+Afanda = Taiwan
+?????? = Ukraine
+Avatar: An IMAX 3D Experience = USA (IMAX version)
+Avatar: Special Edition = USA (longer version)
+James Cameron's Avatar = USA (promotional title)
+Project 880 = USA (working title)
+Avatar = Uruguay
+Avatar = Venezuela
+RELEASE_DATES	UK = 10 December 2009
+Hungary = 14 December 2009
+United Arab Emirates = 15 December 2009
+Spain = 15 December 2009
+Australia = 16 December 2009
+Bangladesh = 16 December 2009
+Belgium = 16 December 2009
+Switzerland = 16 December 2009
+Egypt = 16 December 2009
+France = 16 December 2009
+Hungary = 16 December 2009
+South Korea = 16 December 2009
+Serbia = 16 December 2009
+USA = 16 December 2009
+United Arab Emirates = 17 December 2009
+Austria = 17 December 2009
+Australia = 17 December 2009
+Bosnia and Herzegovina = 17 December 2009
+Bulgaria = 17 December 2009
+Switzerland = 17 December 2009
+Colombia = 17 December 2009
+Czech Republic = 17 December 2009
+Germany = 17 December 2009
+UK = 17 December 2009
+Georgia = 17 December 2009
+Greece = 17 December 2009
+Hong Kong = 17 December 2009
+Croatia = 17 December 2009
+Hungary = 17 December 2009
+Ireland = 17 December 2009
+Israel = 17 December 2009
+Kuwait = 17 December 2009
+Lebanon = 17 December 2009
+Mexico = 17 December 2009
+Malaysia = 17 December 2009
+Netherlands = 17 December 2009
+New Zealand = 17 December 2009
+Peru = 17 December 2009
+Philippines = 17 December 2009
+Portugal = 17 December 2009
+Russia = 17 December 2009
+Singapore = 17 December 2009
+Slovenia = 17 December 2009
+Slovakia = 17 December 2009
+Syria = 17 December 2009
+Thailand = 17 December 2009
+Ukraine = 17 December 2009
+Brazil = 18 December 2009
+Canada = 18 December 2009
+Denmark = 18 December 2009
+Estonia = 18 December 2009
+Spain = 18 December 2009
+Finland = 18 December 2009
+Indonesia = 18 December 2009
+India = 18 December 2009
+Iceland = 18 December 2009
+Kazakhstan = 18 December 2009
+Lithuania = 18 December 2009
+Latvia = 18 December 2009
+Norway = 18 December 2009
+Panama = 18 December 2009
+Romania = 18 December 2009
+Sweden = 18 December 2009
+Turkey = 18 December 2009
+Taiwan = 18 December 2009
+USA = 18 December 2009
+Uruguay = 18 December 2009
+Venezuela = 18 December 2009
+Japan = 21 December 2009
+Argentina = 23 December 2009
+Japan = 23 December 2009
+Poland = 25 December 2009
+Pakistan = 31 December 2009
+Argentina = 1 January 2010
+Pakistan = 1 January 2010
+Armenia = 3 January 2010
+China = 4 January 2010
+Italy = 15 January 2010
+Georgia = 28 January 2010
+Australia = 26 August 2010
+Hong Kong = 26 August 2010
+South Korea = 26 August 2010
+Kazakhstan = 26 August 2010
+Malaysia = 26 August 2010
+New Zealand = 26 August 2010
+Russia = 26 August 2010
+Singapore = 26 August 2010
+Canada = 27 August 2010
+UK = 27 August 2010
+Ireland = 27 August 2010
+India = 27 August 2010
+Poland = 27 August 2010
+Taiwan = 27 August 2010
+USA = 27 August 2010
+France = 1 September 2010
+Indonesia = 1 September 2010
+Germany = 2 September 2010
+Belgium = 8 September 2010
+Argentina = 23 September 2010
+Georgia = 23 September 2010
+Spain = 24 September 2010
+Brazil = 15 October 2010
+Mexico = 15 October 2010
+Japan = 16 October 2010
+Cambodia = 13 October 2011
+Hungary = 31 October 2013
+Portugal = 2 January 2014
+France = 6 September 2017
+
+TITLE_ID	tt0065797
+IMDB_URL	https://www.imdb.com/title/tt0065797/
+TITLE	The Great White Hope
+YEAR	1970
+RATING	
+GENRES	Drama
+Romance
+Sport
+DIRECTORS	Martin Ritt
+WRITERS	Howard Sackler
+CAST	James Earl Jones 
+Jane Alexander 
+Lou Gilbert 
+Joel Fluellen 
+Chester Morris 
+Robert Webber 
+Marlene Warfield 
+R.G. Armstrong 
+Hal Holbrook 
+Beah Richards 
+Moses Gunn 
+Lloyd Gough 
+George Ebeling 
+Larry Pennell 
+Roy Glenn 
+Bill Walker 
+Marcel Dalio 
+Rodolfo Acosta 
+Virginia Capers 
+Rockne Tarkington 
+Oscar Beregi Jr. 
+Manuel Padilla Jr. 
+Karl-Otto Alberty 
+Jim Beattie 
+Kirk Alyn 
+Ernest Anderson 
+Paul Barselou 
+Donald Buka 
+Booth Colman 
+Scatman Crothers
+STARS	James Earl Jones
+Jane Alexander
+Lou Gilbert
+PRODUCERS	Lawrence Turman
+MUSICIANS	
+CINEMATOGRAPHERS	Burnett Guffey
+EDITORS	William Reynolds
+RELEASE_DATE	16 Oct 1970 (USA)
+TAGLINE	The most honored play in the history of Broadway...becomes an electrifying motion picture!
+PLOT	Boxer Jack Jefferson (James Earl Jones) is the world's reigning heavyweight boxing champion. There's just one problem, he is also the first black heavyweight champion, and that bothers a lot of people. Jack's celebration is cut short, as Jack is framed for crossing a state line with Eleanor, his white fiancé (Jane Alexander in her first film role), a violation of the Mann Act. Facing a prison sentence, Jack escapes to Europe, with Eleanor in tow, encountering problems in England, and then France, and eventually landing in Cuba. In Havana, Jack agrees to enter the boxing ring for what might be the bout of his life. Both Jones and Alexander were nominated for Oscars.
+PLOT_KEYWORDS	male-protagonist
+black-hair
+color-in-title
+four-word-title
+lover-lover-relationship
+POSTER	https://ia.media-imdb.com/images/M/MV5BNDkyMTg3NjUtMTA2OC00NzNlLWI0MDMtODgzZWE4MGRiYmRmXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1._SY200.jpg
+POSTER_LARGE	https://ia.media-imdb.com/images/M/MV5BNDkyMTg3NjUtMTA2OC00NzNlLWI0MDMtODgzZWE4MGRiYmRmXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1._SY500.jpg
+POSTER_FULL	https://ia.media-imdb.com/images/M/MV5BNDkyMTg3NjUtMTA2OC00NzNlLWI0MDMtODgzZWE4MGRiYmRmXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1._SY0.jpg
+RUNTIME	103 min
+TOP_250	
+OSCARS	
+AWARDS	2
+NOMINATIONS	5
+LANGUAGE	English
+Hungarian
+German
+Spanish
+COUNTRY	United States
+ALSO_KNOWN_AS	La gran esperanza blanca = Argentina
+???????? ???? ??????? = Bulgaria (Bulgarian title)
+A Grande Esperança Branca = Brazil
+L'insurgé = Canada (French title)
+Det store hvide håb = Denmark
+La gran esperanza blanca = Spain
+Ylpeä jättiläinen = Finland
+L'insurgé = France
+I megali lefki elpida = Greece (transliterated ISO-LATIN-1 title)
+Jefferson utolsó menete = Hungary
+Per salire più in basso = Italy
+Bokusâ = Japan
+Boxer = Japan (English title)
+Einde van de laatste ronde = Netherlands
+Wielka nadzieja bialych = Poland
+Det stora vita hoppet = Sweden
+??????? ????? ??????? = Soviet Union (Russian title)
+Zafer benimdir = Turkey (Turkish title)
+Die große, weiße Hoffnung = West Germany
+Crni izazov = Yugoslavia (Serbian title) (literal title)
+
+
+ -> Rating: 
+The Shawshank Redemption -> Rating: 9.2
+The Godfather -> Rating: 9.2
+The Godfather: Part II -> Rating: 9.0
+The Dark Knight -> Rating: 9.0
+12 Angry Men -> Rating: 8.9
+Schindler's List -> Rating: 8.9
+The Lord of the Rings: The Return of the King -> Rating: 8.9
+Pulp Fiction -> Rating: 8.9
+The Good, the Bad and the Ugly -> Rating: 8.8
+Fight Club -> Rating: 8.8
+The Lord of the Rings: The Fellowship of the Ring -> Rating: 8.8
+Forrest Gump -> Rating: 8.7
+Star Wars: Episode V - The Empire Strikes Back -> Rating: 8.7
+Inception -> Rating: 8.7
+The Lord of the Rings: The Two Towers -> Rating: 8.7
+One Flew Over the Cuckoo's Nest -> Rating: 8.7
+Goodfellas -> Rating: 8.7
+The Matrix -> Rating: 8.6
+Seven Samurai -> Rating: 8.6
+City of God -> Rating: 8.6
+Star Wars: Episode IV - A New Hope -> Rating: 8.6
+Se7en -> Rating: 8.6
+The Silence of the Lambs -> Rating: 8.6
+It's a Wonderful Life -> Rating: 8.6
+Life Is Beautiful -> Rating: 8.6
+Avengers: Infinity War -> Rating: 8.6
+The Usual Suspects -> Rating: 8.6
+Spirited Away -> Rating: 8.5
+Saving Private Ryan -> Rating: 8.5
+Léon: The Professional -> Rating: 8.5
+Interstellar -> Rating: 8.5
+The Green Mile -> Rating: 8.5
+American History X -> Rating: 8.5
+Psycho -> Rating: 8.5
+Once Upon a Time in the West -> Rating: 8.5
+City Lights -> Rating: 8.5
+Casablanca -> Rating: 8.5
+Modern Times -> Rating: 8.5
+The Intouchables -> Rating: 8.5
+The Pianist -> Rating: 8.5
+The Departed -> Rating: 8.5
+Terminator 2 -> Rating: 8.5
+Raiders of the Lost Ark -> Rating: 8.5
+Back to the Future -> Rating: 8.5
+Rear Window -> Rating: 8.5
+Whiplash -> Rating: 8.5
+Gladiator -> Rating: 8.5
+The Lion King -> Rating: 8.5
+The Prestige -> Rating: 8.5
+Memento -> Rating: 8.4
+Apocalypse Now -> Rating: 8.4
+Alien -> Rating: 8.4
+The Great Dictator -> Rating: 8.4
+Cinema Paradiso -> Rating: 8.4
+Sunset Blvd. -> Rating: 8.4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -> Rating: 8.4
+Grave of the Fireflies -> Rating: 8.4
+The Lives of Others -> Rating: 8.4
+Paths of Glory -> Rating: 8.4
+The Shining -> Rating: 8.4
+Django Unchained -> Rating: 8.4
+Coco -> Rating: 8.4
+WALL·E -> Rating: 8.4
+Princess Mononoke -> Rating: 8.4
+American Beauty -> Rating: 8.4
+The Dark Knight Rises -> Rating: 8.4
+Witness for the Prosecution -> Rating: 8.4
+Oldeuboi -> Rating: 8.4
+Aliens -> Rating: 8.4
+Once Upon a Time in America -> Rating: 8.3
+Das Boot -> Rating: 8.3
+Citizen Kane -> Rating: 8.3
+Vertigo -> Rating: 8.3
+North by Northwest -> Rating: 8.3
+Braveheart -> Rating: 8.3
+Reservoir Dogs -> Rating: 8.3
+Star Wars: Episode VI - Return of the Jedi -> Rating: 8.3
+M -> Rating: 8.3
+Dangal -> Rating: 8.3
+Kimi no na wa. -> Rating: 8.3
+Requiem for a Dream -> Rating: 8.3
+Amadeus -> Rating: 8.3
+Taare Zameen Par -> Rating: 8.3
+Amélie -> Rating: 8.3
+A Clockwork Orange -> Rating: 8.3
+Lawrence of Arabia -> Rating: 8.3
+Eternal Sunshine of the Spotless Mind -> Rating: 8.3
+Double Indemnity -> Rating: 8.3
+Taxi Driver -> Rating: 8.3
+Singin' in the Rain -> Rating: 8.3
+2001: A Space Odyssey -> Rating: 8.3
+Toy Story -> Rating: 8.3
+3 Idiots -> Rating: 8.3
+To Kill a Mockingbird -> Rating: 8.3
+Full Metal Jacket -> Rating: 8.3
+Inglourious Basterds -> Rating: 8.3
+Bicycle Thieves -> Rating: 8.3
+The Sting -> Rating: 8.3
+The Kid -> Rating: 8.3
+Toy Story 3 -> Rating: 8.3
+Snatch -> Rating: 8.3
+Good Will Hunting -> Rating: 8.3
+Jagten -> Rating: 8.3
+Monty Python and the Holy Grail -> Rating: 8.3
+For a Few Dollars More -> Rating: 8.2
+Scarface -> Rating: 8.2
+L.A. Confidential -> Rating: 8.2
+The Apartment -> Rating: 8.2
+Metropolis -> Rating: 8.2
+A Separation -> Rating: 8.2
+Rashômon -> Rating: 8.2
+Indiana Jones and the Last Crusade -> Rating: 8.2
+Up -> Rating: 8.2
+Yojimbo -> Rating: 8.2
+All About Eve -> Rating: 8.2
+Batman Begins -> Rating: 8.2
+Some Like It Hot -> Rating: 8.2
+Unforgiven -> Rating: 8.2
+The Treasure of the Sierra Madre -> Rating: 8.2
+Downfall -> Rating: 8.2
+Babam ve Oglum -> Rating: 8.2
+Die Hard -> Rating: 8.2
+Heat -> Rating: 8.2
+Raging Bull -> Rating: 8.2
+Ikiru -> Rating: 8.2
+The Great Escape -> Rating: 8.2
+The Third Man -> Rating: 8.2
+Children of Heaven -> Rating: 8.2
+Three Billboards Outside Ebbing, Missouri -> Rating: 8.2
+Chinatown -> Rating: 8.2
+Pan's Labyrinth -> Rating: 8.2
+Incendies -> Rating: 8.2
+My Neighbor Totoro -> Rating: 8.2
+Judgment at Nuremberg -> Rating: 8.2
+Ran -> Rating: 8.2
+The Secret in Their Eyes -> Rating: 8.2
+The Gold Rush -> Rating: 8.2
+Howl's Moving Castle -> Rating: 8.2
+The Bridge on the River Kwai -> Rating: 8.2
+On the Waterfront -> Rating: 8.2
+Inside Out -> Rating: 8.2
+Lock, Stock and Two Smoking Barrels -> Rating: 8.2
+The Seventh Seal -> Rating: 8.2
+A Beautiful Mind -> Rating: 8.2
+Casino -> Rating: 8.2
+Room -> Rating: 8.2
+Mr. Smith Goes to Washington -> Rating: 8.1
+The Elephant Man -> Rating: 8.1
+The Wolf of Wall Street -> Rating: 8.1
+V for Vendetta -> Rating: 8.1
+Blade Runner -> Rating: 8.1
+Wild Strawberries -> Rating: 8.1
+Warrior -> Rating: 8.1
+The General -> Rating: 8.1
+Sherlock Jr. -> Rating: 8.1
+Dial M for Murder -> Rating: 8.1
+Trainspotting -> Rating: 8.1
+Gone with the Wind -> Rating: 8.1
+No Country for Old Men -> Rating: 8.1
+Gran Torino -> Rating: 8.1
+The Sixth Sense -> Rating: 8.1
+Fargo -> Rating: 8.1
+There Will Be Blood -> Rating: 8.1
+The Deer Hunter -> Rating: 8.1
+The Thing -> Rating: 8.1
+Finding Nemo -> Rating: 8.1
+The Big Lebowski -> Rating: 8.1
+Come and See -> Rating: 8.1
+Cool Hand Luke -> Rating: 8.1
+Kill Bill: Vol. 1 -> Rating: 8.1
+Sunrise -> Rating: 8.1
+Rebecca -> Rating: 8.1
+Tokyo Story -> Rating: 8.1
+Shutter Island -> Rating: 8.1
+The Bandit -> Rating: 8.1
+Hacksaw Ridge -> Rating: 8.1
+How to Train Your Dragon -> Rating: 8.1
+Mary and Max -> Rating: 8.1
+Gone Girl -> Rating: 8.1
+Andrei Rublev -> Rating: 8.1
+Into the Wild -> Rating: 8.1
+Life of Brian -> Rating: 8.1
+Relatos salvajes -> Rating: 8.1
+Blade Runner 2049 -> Rating: 8.1
+It Happened One Night -> Rating: 8.1
+Rang De Basanti -> Rating: 8.1
+Platoon -> Rating: 8.1
+In the Name of the Father -> Rating: 8.1
+The Passion of Joan of Arc -> Rating: 8.1
+Network -> Rating: 8.1
+Stand by Me -> Rating: 8.1
+Hotel Rwanda -> Rating: 8.1
+The Grand Budapest Hotel -> Rating: 8.1
+The Wages of Fear -> Rating: 8.1
+Jurassic Park -> Rating: 8.1
+Stalker -> Rating: 8.1
+Ben-Hur -> Rating: 8.1
+Rush -> Rating: 8.1
+Persona -> Rating: 8.1
+12 Years a Slave -> Rating: 8.1
+Memories of Murder -> Rating: 8.1
+The Truman Show -> Rating: 8.1
+Million Dollar Baby -> Rating: 8.1
+The 400 Blows -> Rating: 8.1
+Mad Max: Fury Road -> Rating: 8.1
+Spotlight -> Rating: 8.1
+Logan -> Rating: 8.1
+Amores Perros -> Rating: 8.1
+Before Sunrise -> Rating: 8.1
+Hachi: A Dog's Tale -> Rating: 8.1
+Butch Cassidy and the Sundance Kid -> Rating: 8.1
+Prisoners -> Rating: 8.1
+The Princess Bride -> Rating: 8.1
+Nausicaä of the Valley of the Wind -> Rating: 8.0
+La La Land -> Rating: 8.0
+Catch Me If You Can -> Rating: 8.0
+Harry Potter and the Deathly Hallows: Part 2 -> Rating: 8.0
+The Maltese Falcon -> Rating: 8.0
+Rocky -> Rating: 8.0
+A Wednesday -> Rating: 8.0
+The Grapes of Wrath -> Rating: 8.0
+The Nights of Cabiria -> Rating: 8.0
+Monsters, Inc. -> Rating: 8.0
+Diabolique -> Rating: 8.0
+Barry Lyndon -> Rating: 8.0
+Donnie Darko -> Rating: 8.0
+Paper Moon -> Rating: 8.0
+Gandhi -> Rating: 8.0
+The Terminator -> Rating: 8.0
+Touch of Evil -> Rating: 8.0
+La Haine -> Rating: 8.0
+Groundhog Day -> Rating: 8.0
+The Wizard of Oz -> Rating: 8.0
+Dead Poets Society -> Rating: 8.0
+The Bourne Ultimatum -> Rating: 8.0
+Annie Hall -> Rating: 8.0
+8½ -> Rating: 8.0
+Jaws -> Rating: 8.0
+In the Mood for Love -> Rating: 8.0
+The Help -> Rating: 8.0
+Paris, Texas -> Rating: 8.0
+Infernal Affairs -> Rating: 8.0
+The Best Years of Our Lives -> Rating: 8.0
+Twelve Monkeys -> Rating: 8.0
+Gangs of Wasseypur -> Rating: 8.0
+Before Sunset -> Rating: 8.0
+Beauty and the Beast -> Rating: 8.0
+Three Colors: Red -> Rating: 8.0
+Dog Day Afternoon -> Rating: 8.0
+Akira -> Rating: 8.0
+
